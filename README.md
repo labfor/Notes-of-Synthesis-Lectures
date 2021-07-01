@@ -22,7 +22,9 @@ Please note that this repo __will not__ share you with original copys of these l
 ## Categories of Synthesis Lectures
 
 ### Domain Specific (Customized) Archietcures
-- Efficient Processing of Deep Neural Networks 
+- [Efficient Processing of Deep Neural Networks ](./Efficient_Processing_of_Deep_Neural_Networks.md)
+- [Deep Learning Systems: Algorithms, Compliers, and Processors for Large-Scale Production](./Deep_Learning_Systems_Algorithms_Compliers_and_Processors_for_Large-Scale_Production.md)
+
 
 ### Parallesim and Concurrency
 
