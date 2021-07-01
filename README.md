@@ -2,7 +2,7 @@
 
 ## Language Options
 
-[English](/REDAME.md) | [中文](/Chinese/README.md)
+[English](/REDAME.md) | [中文](/notes_chinese/README.md)
 
 ## Foreword
 

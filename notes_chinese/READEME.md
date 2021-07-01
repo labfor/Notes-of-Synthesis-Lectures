@@ -1,4 +1,4 @@
-# Notes-of-Synthesis-Lectures-on-Computer-Architectures
+# Synthesis-Lectures-on-Computer-Architectures学习笔记
 
 ## 语言
 
